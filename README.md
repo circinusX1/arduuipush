@@ -14,7 +14,7 @@ As  I dont want to explore Klingon I gave up !
     - paste the code in arduino sketch
     - make appropriate changes
     - use a bluetooth HC module on arduino
-    - On Android, pait the BT HC or whatever
+    - On Android, pair the BT HC or whatever
     - Connect and use the the designed UI
     
 
